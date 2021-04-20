@@ -5,6 +5,15 @@
 Este projeto foi pensado pela RocketSeat como um jogo de perguntas relacionados a própria 
 tecnologia.
 
+## Lista de Tarefas
+
+- [x] Splash Page
+- [ ] Home Page
+    - [ ] Widget AppBar
+    - [ ] Widget ScoreCard
+    - [ ] Widget Chart
+- [ ] Push my commits to GitHub
+
 
 <table style="width:100%">
     <thead>
@@ -26,7 +35,7 @@ tecnologia.
         <td>Sênior UI Designer</td>
         <td>
             <a target="_blank" href="https://www.linkedin.com/in/tiagoluchtenberg/?originalSubdomain=br">
-                https://docs.guzzlephp.org/en/stable/
+                @TiagoLuchtenberg
             </a>
         </td>
       </tr>   
@@ -36,3 +45,8 @@ tecnologia.
       </tr>    
     </tbody>
 </table>
+
+* Protagonista: [@R4YC0NLima](https://github.com/R4YC0NLima)
+* Educador: [@gabuldev](https://github.com/gabuldev)
+* Sênior UI Designer: [@TiagoLuchtenberg](https://www.linkedin.com/in/tiagoluchtenberg/?originalSubdomain=br)
+* Apoio: [Rocketseat](https://www.rocketseat.com.br)
