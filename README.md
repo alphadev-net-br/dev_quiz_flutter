@@ -1,17 +1,12 @@
-# dev_quiz
+# NLW#5 - Trilha Flutter
 
-A new Flutter project.
+Bem vindo ao "DevQuiz", onde foi desenvolvido em Flutter no evento NLW#5 da 
+[Rocketseat](https://www.rocketseat.com.br) com [@gabuldev](https://github.com/gabuldev)
+e o [@TiagoLuchtenberg] Sênior UI Designer na [Rocketseat](https://www.rocketseat.com.br).
 
-## Getting Started
+## DevQuiz
 
-This project is a starting point for a Flutter application.
+Este projeto foi pensado pela RocketSeat como um jogo de perguntas relacionados a própria 
+tecnologia.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# dev_quiz_flutter
