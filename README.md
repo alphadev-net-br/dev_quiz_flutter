@@ -2,7 +2,8 @@
 
 Bem vindo ao "DevQuiz", onde foi desenvolvido em Flutter no evento NLW#5 da 
 [Rocketseat](https://www.rocketseat.com.br) com [@gabuldev](https://github.com/gabuldev)
-e o [@TiagoLuchtenberg] Sênior UI Designer na [Rocketseat](https://www.rocketseat.com.br).
+e o [@TiagoLuchtenberg](https://www.linkedin.com/in/tiagoluchtenberg/?originalSubdomain=br) 
+Sênior UI Designer na [Rocketseat](https://www.rocketseat.com.br).
 
 ## DevQuiz
 
