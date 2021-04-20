@@ -20,7 +20,7 @@ tecnologia.
       </tr>   
       <tr>
         <td>Educador</td>
-        <td><a target="_blank" href="https://laravel.com/">@gabuldev</a></td>
+        <td><a target="_blank" href="https://www.linkedin.com/in/gabuldev/?originalSubdomain=br">@gabuldev</a></td>
       </tr>   
       <tr>
         <td>Sênior UI Designer</td>
